@@ -1,0 +1,16 @@
+div {
+  font-size: 3em
+}
+
+#header {
+  background-color: lightblue
+}
+#menu {
+  background-color: orange
+}
+#content {
+  background-color: white
+}
+#footer {
+  background-color: gray
+}
